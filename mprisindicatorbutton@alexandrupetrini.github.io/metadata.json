@@ -1,0 +1,10 @@
+{
+  "uuid": "mprisindicatorbutton@alexandrupetrini.github.io",
+  "name": "Mpris Indicator Button",
+  "description": "A full featured MPRIS indicator.",
+  "original-author": "JasonLG1979@github.io",
+  "shell-version": [
+    "3.34"
+  ],
+  "url": "https://github.com/alexandrupetrini/gnome-shell-extension-mpris-indicator-button/tree/gnome3.34"
+}

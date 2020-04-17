@@ -1,13 +1,14 @@
 # gnome-shell-extension-mpris-indicator-button
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
- A full featured MPRIS indicator button extension for GNOME Shell 3.34+
+ A full featured MPRIS indicator button extension for GNOME Shell 3.34. 
+
+ <b>This is just a code freeze of for the original extension that only supports last Gnome Shell Version. I do not offer support.</b>
 
 ![Screenshot](https://github.com/JasonLG1979/gnome-shell-extensions-mpris-indicator-button/blob/master/data/Screenshot.png)
 
 [<img src="https://github.com/JasonLG1979/gnome-shell-extensions-mpris-indicator-button/blob/master/data/get-it-on-ego.svg?sanitize=true" height="100">](https://extensions.gnome.org/extension/1379/mpris-indicator-button/)
 
-<b>Please take the time to at least glance at the [code of conduct](https://github.com/JasonLG1979/gnome-shell-extensions-mpris-indicator-button/blob/master/CODE_OF_CONDUCT.md) and [wiki](https://github.com/JasonLG1979/gnome-shell-extensions-mpris-indicator-button/wiki).
 
 [The User Guide](https://github.com/JasonLG1979/gnome-shell-extension-mpris-indicator-button/wiki/User-Guide) is also a good read if you want to know all the features.</b>
  
